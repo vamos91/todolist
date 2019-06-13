@@ -1,0 +1,22 @@
+body{
+  background-color: white;
+  font-family: Arial;
+}
+
+ul{
+  list-style: none;
+}
+
+form{
+  background-color: red;
+  border: 1px solid gray;
+  padding: 40px;
+}
+
+.todolist{
+  margin: 20px auto;
+  width: 50%;
+  text-align: center;
+}
+
+
